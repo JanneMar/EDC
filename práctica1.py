@@ -1,5 +1,5 @@
-#Ejercici1 
-#piede el nombrre
+#Ej_1 
+#pide el nombre
 
 nombre  =  input ( "Ingresa nombre: " )
 
